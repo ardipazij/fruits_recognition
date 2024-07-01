@@ -8,7 +8,6 @@ This repository contains code for a Telegram bot that classifies images of fruit
 - [Training the Model](#training-the-model)
 - [Bot Setup](#bot-setup)
 - [Training Results](#training-results)
-- [License](#license)
 
 ## Installation
 
